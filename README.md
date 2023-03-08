@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [swaylock](https://github.com/swaywm/swaylock)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [swaylock](https://github.com/swaywm/swaylock).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/swaylock](https://draculatheme.com/swaylock).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/swaylock/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![milkknife](https://github.com/milkknife.png?size=100)](https://github.com/milkknife) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [milkknife](https://github.com/milkknife)                                               |
 
 ## Community
 
