@@ -1,8 +1,8 @@
-# Dracula for [swaylock](https://github.com/swaywm/swaylock)
+# Dracula for [swaylock](https://github.com/mortie/swaylock-effects)
 
-> A dark theme for [swaylock](https://github.com/swaywm/swaylock).
+> A dark theme for [swaylock](https://github.com/mortie/swaylock-effects).
 
-![Screenshot](./screenshot.png)
+![vlcsnap-2024-02-05-10h37m59s436](https://github.com/cosmicwanderer7/swaylock-effects/assets/65147258/3919e469-83f9-4678-b600-4d2ce7a7d8ce)
 
 ## Install
 
@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/swaylock](https://draculathem
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/swaylock/graphs/contributors).
 
-| [![milkknife](https://github.com/milkknife.png?size=100)](https://github.com/milkknife) |
+| [![cosmicwanderer7](https://github.com/cosmicwanderer7.png?size=100)](https://github.com/cosmicwanderer7) |
 | ---------------------------------------------------------------------------------------- |
-| [milkknife](https://github.com/milkknife)                                               |
+| [milkknife](https://github.com/cosmicwanderer7)                                          |
 
 ## Community
 
